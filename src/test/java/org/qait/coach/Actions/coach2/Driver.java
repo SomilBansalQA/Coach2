@@ -27,7 +27,7 @@ public class Driver {
 		}
 
 		
-		 if (browser.equalsIgnoreCase("chrome")) {
+		else if (browser.equalsIgnoreCase("chrome")) {
 			
 			exePath = "C:" + File.separator + "Users" + File.separator + "somilbansal" + File.separator + "Desktop"
 					+ File.separator + "Driver" + File.separator + "chromedriver.exe";
