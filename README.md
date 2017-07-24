@@ -21,4 +21,4 @@ test="TestCoachGiftCard.java"
 mvn clean verify -D
 test="TestCoachCheckOut.java" -Dcursor="1"
 
-#here Cusror=1 means that it check the credit card which is at position 1 in USCreditCardDetails.xls
+#here Cusror=1 means that it test the credit card which is at position 1 in USCreditCardDetails.xls
