@@ -10,7 +10,7 @@ public class CoachCheckOut {
 	WebDriver driver;
 	By click_on_sale = By.xpath(".//*[text()='SALE']");
 	By click_on_close_pop_window_sign = By.cssSelector("button[class='icon-coach-close-black']");
-	By clck_on_selected_boot = By.xpath(".//*[text()='bond bootie']");
+	By clck_on_selected_boot = By.xpath(".//*[text()='astor studded clog']");
 	By clck_on_selected_size_button = By.cssSelector(".btn.dropdown-toggle.selectpicker.btn-default");
 	
 	By set_size_of_boot = By.xpath(".//li[@rel='2']/a");
